@@ -105,6 +105,31 @@ One of the main steps is the performance evaluation and interpretation, this sta
 
 # 3. Data Insights
 
+### Insight 1. Age
+
+> The average age of interested clients is higher than non-interested clients. Both plots disclose well how younger clients are not as interested as older clients. 
+
+![Insight1](https://user-images.githubusercontent.com/68538809/147419338-12614b60-af99-42fe-bfc9-30e659e43c0f.JPG)
+
+### Insight 2. Vehicles Age
+
+> Interest is greater on customers' with vehicles age over 2 years old.
+
+![Insight2](https://user-images.githubusercontent.com/68538809/147420148-6b78b6fa-43c1-4d33-83db-b8b7da0a8f61.JPG)
+
+### Insight 3. Previously Damaged Vehicle
+
+> Interest is greater on customers' that had his/her vehicle damaged in the past.
+
+![Insight3](https://user-images.githubusercontent.com/68538809/147420356-86dbb2ad-28ff-4484-b8d3-b2a80e2ee8ff.JPG)
+
+### Insight 4. Annual Premium
+
+> Customers with higher health insurance annual premiums are more interested in getting a vehicle insurance.
+
+![Insight4](https://user-images.githubusercontent.com/68538809/147420570-b0968368-2b2d-4675-a919-76b825099d99.JPG)
+
+
 # 4. Machine Learning Model Applied
 
 The following Machine Learning models were tested and cross-validated:
@@ -143,39 +168,13 @@ Performance plots show the model's ability to identify **all customers intereste
 
 # 6. Business Results
 
-## **1.** Key findings on interested customers' most relevant attributes.
-
-### Insight 1. Age
-
-> The average age of interested clients is higher than non-interested clients. Both plots disclose well how younger clients are not as interested as older clients. 
-
-![Insight1](https://user-images.githubusercontent.com/68538809/147419338-12614b60-af99-42fe-bfc9-30e659e43c0f.JPG)
-
-### Insight 2. Vehicles Age
-
-> Interest is greater on customers' with vehicles age over 2 years old.
-
-![Insight2](https://user-images.githubusercontent.com/68538809/147420148-6b78b6fa-43c1-4d33-83db-b8b7da0a8f61.JPG)
-
-### Insight 3. Previously Damaged Vehicle
-
-> Interest is greater on customers' that had his/her vehicle damaged in the past.
-
-![Insight3](https://user-images.githubusercontent.com/68538809/147420356-86dbb2ad-28ff-4484-b8d3-b2a80e2ee8ff.JPG)
-
-### Insight 4. Annual Premium
-
-> Customers with higher health insurance annual premiums are more interested in getting a vehicle insurance.
-
-![Insight4](https://user-images.githubusercontent.com/68538809/147420570-b0968368-2b2d-4675-a919-76b825099d99.JPG)
-
-## **2.** How many interest customers will the sales team be able to reach with 20,000 phone calls.
+## **1.** How many interest customers will the sales team be able to reach with 20,000 phone calls.
 
 > With 20,000 calls, the sales team will be able to **reach 45.44%** of the interested customers. This is more 2,829 customers when compared to a random model, representing an increase of 2,546,100€ in revenue.
 
 ![Plot20000](https://user-images.githubusercontent.com/68538809/147598392-9bb55d9a-74f1-4fd1-b8ef-e568ef75a222.JPG)
 
-## **3.** How many interested customers would the sales team be able to reach if the budget was increased to 40,000 calls.
+## **2.** How many interested customers would the sales team be able to reach if the budget was increased to 40,000 calls.
 
 With 40,000 calls, the sales team will be able to **reach 78.84%** of the interested customers. This is more 4,510 customers when compared to a random model, representing an increase of 4,059,000€ in revenue.
 
